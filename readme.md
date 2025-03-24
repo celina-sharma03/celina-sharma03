@@ -14,7 +14,6 @@
     <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&style=flat-square&logoHeight=20&labelColor=transparent&shape=circle"></td>
     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&style=flat-square&logoHeight=20&labelColor=transparent&shape=circle"></td>
     <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20&style=flat-square&logoHeight=20&labelColor=transparent&shape=circle"></td>
-    <td><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&logoWidth=20&style=flat-square&logoHeight=20&labelColor=transparent&shape=circle"></td>
     <td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=20&style=flat-square&logoHeight=20&labelColor=transparent&shape=circle"></td>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&style=flat-square&logoHeight=20&labelColor=transparent&shape=circle"></td>
     <td><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=20&style=flat-square&logoHeight=20&labelColor=transparent&shape=circle"></td>
@@ -33,8 +32,8 @@
 
 
 ## 📢 Connect With Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-awasthi-343874281/)  
-- *Email*: [milanawasthi726@gmail.com](mailto:milanawasthi726@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celina-sharma-721920283/)
+- *Email*: [sharmacelina31@gmail.com](mailto:sharmacelina31@gmail.com)  
 
 ---
 💡 What I believe? "Never stop learning because life never stops teaching."
