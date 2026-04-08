@@ -1,7 +1,6 @@
 # 🚀 Celina Sharma - Web Developer & Tech Enthusiast
 
 ## 🌟 About Me
-🔹 Currently working on Medicare. </br>
 🔹 Passionate *Web Developer* with a thirst for knowledge.  
 🔹 Always exploring new technologies and honing my skills.  
 🔹 Love tackling challenges in the ever-evolving tech world.  
